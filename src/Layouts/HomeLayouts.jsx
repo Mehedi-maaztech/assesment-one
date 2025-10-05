@@ -12,6 +12,7 @@ import Podcast from '../component/Podcast';
 import Contact from '../component/Contact';
 import QuestionAnswer from '../component/QuestionAnswer';
 import Footer from '../component/Footer';
+import SuccesStories from '../component/SuccesStories';
 const HomeLayouts = () => {
     return (
         <div className='min-h-screen hero-bg'>
@@ -42,6 +43,9 @@ const HomeLayouts = () => {
             </section>
             <section>
                 <WhatpeopleSay></WhatpeopleSay>
+            </section>
+            <section>
+                <SuccesStories></SuccesStories>
             </section>
             <section>
                 <Podcast></Podcast>
