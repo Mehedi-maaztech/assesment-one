@@ -1,0 +1,10 @@
+@keyframes scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.auto-scroll {
+  display: flex;
+  width: max-content;
+  animation: scroll 20s linear infinite;
+}

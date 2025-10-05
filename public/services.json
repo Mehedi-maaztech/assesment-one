@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Graphic Design",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🎨",
+    "link": "#"
+  },
+  {
+    "id": 2,
+    "title": "Web & Software Development",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "💻",
+    "link": "#"
+  },
+  {
+    "id": 3,
+    "title": "Multimedia & Video Editing",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🎬",
+    "link": "#"
+  },
+  {
+    "id": 4,
+    "title": "Digital Marketing",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "📢",
+    "link": "#"
+  },
+  {
+    "id": 5,
+    "title": "Creative Writing Solution",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "✍️",
+    "link": "#"
+  },
+  {
+    "id": 6,
+    "title": "SEO",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "📈",
+    "link": "#"
+  },
+  {
+    "id": 7,
+    "title": "3D Animation & Visualisation",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🧩",
+    "link": "#"
+  },
+  {
+    "id": 8,
+    "title": "E-Commerce Solution",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🛒",
+    "link": "#"
+  },
+  {
+    "id": 9,
+    "title": "Accounting",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "💰",
+    "link": "#"
+  },
+  {
+    "id": 10,
+    "title": "Special Combo",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "✨",
+    "link": "#"
+  },
+  {
+    "id": 11,
+    "title": "Premium Website",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🌐",
+    "link": "#"
+  },
+  {
+    "id": 12,
+    "title": "Premium Domains",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🔗",
+    "link": "#"
+  },
+  {
+    "id": 13,
+    "title": "Proxy",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🕵️‍♂️",
+    "link": "#"
+  },
+  {
+    "id": 14,
+    "title": "Merchandise",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "👕",
+    "link": "#"
+  },
+  {
+    "id": 15,
+    "title": "Academy",
+    "description": "We are constantly growing and learning and improving, trying new personal and aesthetic craft ideas, finding the ideal homes.",
+    "icon": "🎓",
+    "link": "#"
+  }
+]

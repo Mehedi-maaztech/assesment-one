@@ -1,0 +1,6 @@
+a.active {
+    background: linear-gradient(#0e0118, #0e0118) padding-box,
+        linear-gradient(90deg, #b800ff, #6a00ff, #ffffff) border-box;
+    border: 2px solid transparent;
+    border-radius: 9999px;
+}
